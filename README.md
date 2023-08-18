@@ -12,7 +12,7 @@ YOLOVisionML simplifies YOLO model output processing. Achieve accurate bounding 
 This library performs conversion for any YOLO Model that has been converted to CoreML, as well as outputs that are tensors and conforms to Ultralytics form
 
 ### Overview on the model employing a neural network architecture to extract intricate patterns from input data. However, to achieve accurate and actionable results, we perform additional post-processing on the initial output 'y'.
-<img src="https://images.squarespace-cdn.com/content/v1/59d9b2749f8dce3ebe4e676d/1547561883197-ZO8CJILFNGZMORIJZOJ1/Artificial-Neuron.png" width='90%' height='20%'>
+<img src="https://images.squarespace-cdn.com/content/v1/59d9b2749f8dce3ebe4e676d/1547561883197-ZO8CJILFNGZMORIJZOJ1/Artificial-Neuron.png" width='70%' height='20%'>
 
 
 
