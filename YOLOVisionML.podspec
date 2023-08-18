@@ -2,7 +2,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "YOLOVisionML"
   spec.version      = "0.0.1"
-  spec.summary      = "YOLOVisionML simplifies YOLO model output processing. Achieve accurate bounding boxes and mask calculations, advancing object detection and machine learning capabilities."
+  spec.summary      = "YOLOVisionML simplifies CoreML YOLO model output processing for machine learning integration. "
 
   spec.swift_versions    = '5.0'
   spec.description  = <<-DESC
@@ -23,7 +23,7 @@ Pod::Spec.new do |spec|
   
   spec.readme = "https://raw.githubusercontent.com/jadechoghari/YOLOVisionML/main/README.md"
   
-  spec.source       = { :git => "http://EXAMPLE/YOLOVisionML.git", :tag => "#{spec.version}" }
+  spec.source       = { :git => "https://github.com/jadechoghari/YOLOVisionML.git", :tag => "#{spec.version}" }
   spec.source_files  = "YOLOVisionML/**/*.{swift,h,m}"
 
 
